@@ -1,0 +1,92 @@
+c:\users\namht1\documents\visual studio 2017\Projects\BDS_MN\BDS_MN\bin\roslyn\csc.exe
+c:\users\namht1\documents\visual studio 2017\Projects\BDS_MN\BDS_MN\bin\roslyn\csc.exe.config
+c:\users\namht1\documents\visual studio 2017\Projects\BDS_MN\BDS_MN\bin\roslyn\csc.rsp
+c:\users\namht1\documents\visual studio 2017\Projects\BDS_MN\BDS_MN\bin\roslyn\csi.exe
+c:\users\namht1\documents\visual studio 2017\Projects\BDS_MN\BDS_MN\bin\roslyn\csi.rsp
+c:\users\namht1\documents\visual studio 2017\Projects\BDS_MN\BDS_MN\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\namht1\documents\visual studio 2017\Projects\BDS_MN\BDS_MN\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\namht1\documents\visual studio 2017\Projects\BDS_MN\BDS_MN\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\namht1\documents\visual studio 2017\Projects\BDS_MN\BDS_MN\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\namht1\documents\visual studio 2017\Projects\BDS_MN\BDS_MN\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\namht1\documents\visual studio 2017\Projects\BDS_MN\BDS_MN\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\namht1\documents\visual studio 2017\Projects\BDS_MN\BDS_MN\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\namht1\documents\visual studio 2017\Projects\BDS_MN\BDS_MN\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\namht1\documents\visual studio 2017\Projects\BDS_MN\BDS_MN\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\namht1\documents\visual studio 2017\Projects\BDS_MN\BDS_MN\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\namht1\documents\visual studio 2017\Projects\BDS_MN\BDS_MN\bin\roslyn\System.AppContext.dll
+c:\users\namht1\documents\visual studio 2017\Projects\BDS_MN\BDS_MN\bin\roslyn\System.Collections.Immutable.dll
+c:\users\namht1\documents\visual studio 2017\Projects\BDS_MN\BDS_MN\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\namht1\documents\visual studio 2017\Projects\BDS_MN\BDS_MN\bin\roslyn\System.IO.FileSystem.dll
+c:\users\namht1\documents\visual studio 2017\Projects\BDS_MN\BDS_MN\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\namht1\documents\visual studio 2017\Projects\BDS_MN\BDS_MN\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\namht1\documents\visual studio 2017\Projects\BDS_MN\BDS_MN\bin\roslyn\vbc.exe
+c:\users\namht1\documents\visual studio 2017\Projects\BDS_MN\BDS_MN\bin\roslyn\vbc.exe.config
+c:\users\namht1\documents\visual studio 2017\Projects\BDS_MN\BDS_MN\bin\roslyn\vbc.rsp
+c:\users\namht1\documents\visual studio 2017\Projects\BDS_MN\BDS_MN\bin\roslyn\VBCSCompiler.exe
+c:\users\namht1\documents\visual studio 2017\Projects\BDS_MN\BDS_MN\bin\roslyn\VBCSCompiler.exe.config
+c:\users\namht1\documents\visual studio 2017\Projects\BDS_MN\BDS_MN\bin\BDS_MN.dll.config
+c:\users\namht1\documents\visual studio 2017\Projects\BDS_MN\BDS_MN\bin\BDS_MN.dll
+c:\users\namht1\documents\visual studio 2017\Projects\BDS_MN\BDS_MN\bin\BDS_MN.pdb
+c:\users\namht1\documents\visual studio 2017\Projects\BDS_MN\BDS_MN\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\namht1\documents\visual studio 2017\Projects\BDS_MN\BDS_MN\bin\Newtonsoft.Json.dll
+c:\users\namht1\documents\visual studio 2017\Projects\BDS_MN\BDS_MN\bin\System.Net.Http.Formatting.dll
+c:\users\namht1\documents\visual studio 2017\Projects\BDS_MN\BDS_MN\bin\System.Web.Http.dll
+c:\users\namht1\documents\visual studio 2017\Projects\BDS_MN\BDS_MN\bin\System.Web.Http.WebHost.dll
+c:\users\namht1\documents\visual studio 2017\Projects\BDS_MN\BDS_MN\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\namht1\documents\visual studio 2017\Projects\BDS_MN\BDS_MN\bin\Newtonsoft.Json.xml
+c:\users\namht1\documents\visual studio 2017\Projects\BDS_MN\BDS_MN\bin\System.Net.Http.Formatting.xml
+c:\users\namht1\documents\visual studio 2017\Projects\BDS_MN\BDS_MN\bin\System.Web.Http.xml
+c:\users\namht1\documents\visual studio 2017\Projects\BDS_MN\BDS_MN\bin\System.Web.Http.WebHost.xml
+c:\users\namht1\documents\visual studio 2017\Projects\BDS_MN\BDS_MN\obj\Debug\BDS_MN.csprojResolveAssemblyReference.cache
+c:\users\namht1\documents\visual studio 2017\Projects\BDS_MN\BDS_MN\obj\Debug\BDS_MN.dll
+c:\users\namht1\documents\visual studio 2017\Projects\BDS_MN\BDS_MN\obj\Debug\BDS_MN.pdb
+C:\Users\NamHT1\Documents\Visual Studio 2017\Projects\BDS_MN\BDS_MN\bin\System.Web.Cors.dll
+C:\Users\NamHT1\Documents\Visual Studio 2017\Projects\BDS_MN\BDS_MN\bin\System.Web.Http.Cors.dll
+C:\Users\NamHT1\Documents\Visual Studio 2017\Projects\BDS_MN\BDS_MN\bin\System.Web.Http.Cors.xml
+F:\BDS_MN\BDS_MN\bin\roslyn\csc.exe
+F:\BDS_MN\BDS_MN\bin\roslyn\csc.exe.config
+F:\BDS_MN\BDS_MN\bin\roslyn\csc.rsp
+F:\BDS_MN\BDS_MN\bin\roslyn\csi.exe
+F:\BDS_MN\BDS_MN\bin\roslyn\csi.rsp
+F:\BDS_MN\BDS_MN\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\BDS_MN\BDS_MN\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\BDS_MN\BDS_MN\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\BDS_MN\BDS_MN\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\BDS_MN\BDS_MN\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\BDS_MN\BDS_MN\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\BDS_MN\BDS_MN\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\BDS_MN\BDS_MN\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\BDS_MN\BDS_MN\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\BDS_MN\BDS_MN\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\BDS_MN\BDS_MN\bin\roslyn\System.AppContext.dll
+F:\BDS_MN\BDS_MN\bin\roslyn\System.Collections.Immutable.dll
+F:\BDS_MN\BDS_MN\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\BDS_MN\BDS_MN\bin\roslyn\System.IO.FileSystem.dll
+F:\BDS_MN\BDS_MN\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\BDS_MN\BDS_MN\bin\roslyn\System.Reflection.Metadata.dll
+F:\BDS_MN\BDS_MN\bin\roslyn\vbc.exe
+F:\BDS_MN\BDS_MN\bin\roslyn\vbc.exe.config
+F:\BDS_MN\BDS_MN\bin\roslyn\vbc.rsp
+F:\BDS_MN\BDS_MN\bin\roslyn\VBCSCompiler.exe
+F:\BDS_MN\BDS_MN\bin\roslyn\VBCSCompiler.exe.config
+F:\BDS_MN\BDS_MN\bin\BDS_MN.dll.config
+F:\BDS_MN\BDS_MN\bin\BDS_MN.dll
+F:\BDS_MN\BDS_MN\bin\BDS_MN.pdb
+F:\BDS_MN\BDS_MN\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\BDS_MN\BDS_MN\bin\Newtonsoft.Json.dll
+F:\BDS_MN\BDS_MN\bin\System.Net.Http.Formatting.dll
+F:\BDS_MN\BDS_MN\bin\System.Web.Cors.dll
+F:\BDS_MN\BDS_MN\bin\System.Web.Http.Cors.dll
+F:\BDS_MN\BDS_MN\bin\System.Web.Http.dll
+F:\BDS_MN\BDS_MN\bin\System.Web.Http.WebHost.dll
+F:\BDS_MN\BDS_MN\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\BDS_MN\BDS_MN\bin\System.Net.Http.Formatting.xml
+F:\BDS_MN\BDS_MN\bin\System.Web.Http.xml
+F:\BDS_MN\BDS_MN\bin\System.Web.Http.Cors.xml
+F:\BDS_MN\BDS_MN\bin\Newtonsoft.Json.xml
+F:\BDS_MN\BDS_MN\bin\System.Web.Http.WebHost.xml
+F:\BDS_MN\BDS_MN\obj\Debug\BDS_MN.csprojAssemblyReference.cache
+F:\BDS_MN\BDS_MN\obj\Debug\BDS_MN.csproj.CoreCompileInputs.cache
+F:\BDS_MN\BDS_MN\obj\Debug\BDS_MN.csproj.CopyComplete
+F:\BDS_MN\BDS_MN\obj\Debug\BDS_MN.dll
+F:\BDS_MN\BDS_MN\obj\Debug\BDS_MN.pdb
