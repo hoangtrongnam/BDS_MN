@@ -47,6 +47,9 @@ namespace BDS_MN.Controllers
             const string GetDangTinsQuery = "SELECT * FROM dbo.DangTin";
 
             var dangTins = new ObservableCollection<DangTin>();
+
+            //var students = dangTins.FromSql("[GetAllDangTin]").ToList();
+
             try
             {
                 using (SqlConnection conn = new SqlConnection(connectionString))

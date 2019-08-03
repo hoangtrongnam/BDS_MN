@@ -18,7 +18,7 @@ export class AppComponent {
   ngOnInit() {
     
         this.dangtin.getAll().subscribe(data2 => {
-          this.title = data2;
+          this.title = data2.ID;
           console.log(this.title);
         });
     
